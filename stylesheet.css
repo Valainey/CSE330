@@ -1,0 +1,32 @@
+        body {
+			
+	        background-color: #95B9C7;
+	        text-align: center;		
+	    }
+		.text{
+		    text-shadow: 1px 1px #999999;
+		    color:#9C6B98  ;
+		}
+		.sign{
+		
+		    position: absolute;
+			right: 200px;
+			text-align: right;
+			
+		}
+		
+		#titlename{
+		    color: #00FFFF;
+			font-size: 20px;
+			font-family: arial;
+			text-align: center;
+			
+		}
+		
+		
+		img{
+		    width:450px;
+			height:300px;
+			margin: auto;
+		}
+		
